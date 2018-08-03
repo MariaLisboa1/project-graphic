@@ -1,4 +1,4 @@
-# project-graphic
+# project-charts
 
 This project is from my internship.
 
